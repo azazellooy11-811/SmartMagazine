@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090408050148",
+    "project_id": "smart-magazine-bd7b4",
+    "storage_bucket": "smart-magazine-bd7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090408050148:android:09ffb997b627aa53a4abf1",
+        "android_client_info": {
+          "package_name": "azalia.app.smartmagazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090408050148-4isr2ndh16ivftpasec8o473ve1fbuh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4iLgTCBsmQU4ei-nw5fYbfN114tERGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090408050148-4isr2ndh16ivftpasec8o473ve1fbuh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
